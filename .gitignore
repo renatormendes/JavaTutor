@@ -1,0 +1,11 @@
+target/
+*.class
+*.jar
+*.sh
+*.txt
+*.odt
+*.zip
+bin/
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,954 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tu",
+				"com.tutor.ai.model.${0:*};"
+			],
+			[
+				"low",
+				"com.lowagie.text.pdf.${0:*};"
+			],
+			[
+				"DOCUMENT",
+				"DOCUMENT"
+			],
+			[
+				"setRowH",
+				"setRowHeaderView(Component view) : void"
+			],
+			[
+				"tutor",
+				"com.tutor.ai"
+			],
+			[
+				"try",
+				"try_catch"
+			],
+			[
+				"CONNECTION",
+				"CONNECTION"
+			],
+			[
+				"de",
+				"dependency"
+			],
+			[
+				"cami",
+				"caminho_arquivo"
+			],
+			[
+				"cliet",
+				"cliente"
+			],
+			[
+				"getT",
+				"getText()"
+			],
+			[
+				"txt",
+				"txtUsuario"
+			],
+			[
+				"TEXTFIELD",
+				"TEXTFIELD"
+			],
+			[
+				"PASSWORD",
+				"PASSWORDFIELD"
+			],
+			[
+				"LABEL",
+				"LABEL"
+			],
+			[
+				"re",
+				"restaurante"
+			],
+			[
+				"printS",
+				"printStackTrace()"
+			],
+			[
+				"E",
+				"Exception"
+			],
+			[
+				"FXMLL",
+				"FXMLLoader"
+			],
+			[
+				"FXML",
+				"FXMLLOADER"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"p",
+				"public"
+			],
+			[
+				"u",
+				"usuario"
+			],
+			[
+				"App",
+				"Application"
+			],
+			[
+				"APPLICATION",
+				"APPLICATION"
+			],
+			[
+				"pa",
+				"package"
+			],
+			[
+				"prepa",
+				"prepareStatement()"
+			],
+			[
+				"printSt",
+				"printStackTrace()"
+			],
+			[
+				"exe",
+				"executeQuery()"
+			],
+			[
+				"thro",
+				"throws"
+			],
+			[
+				"mesa",
+				"mesaSecundaria"
+			],
+			[
+				"pc",
+				"pcc\tclass - constructor"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"exec",
+				"executeQuery()"
+			],
+			[
+				"execu",
+				"executeUpdate()"
+			],
+			[
+				"descri",
+				"descricao"
+			],
+			[
+				"desc",
+				"descricao"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"F",
+				"Float"
+			],
+			[
+				"In",
+				"Integer"
+			],
+			[
+				"da",
+				"data_vencimento"
+			],
+			[
+				"valor_",
+				"valor_final"
+			],
+			[
+				"di",
+				"diferenca_para_positivo"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"par",
+				"partes"
+			],
+			[
+				"lim",
+				"limpa"
+			],
+			[
+				"an",
+				"anda"
+			],
+			[
+				"gos",
+				"gosta"
+			],
+			[
+				"entre",
+				"entregasMotoboy1"
+			],
+			[
+				"entra",
+				"entregasMotoboy1"
+			],
+			[
+				"varia",
+				"varianciaPopulacionalNativa"
+			],
+			[
+				"per",
+				"percentile"
+			],
+			[
+				"HASH",
+				"HASHMAP"
+			],
+			[
+				"ARRAYS",
+				"ARRAYS"
+			],
+			[
+				"soma",
+				"somaPesos"
+			],
+			[
+				"media",
+				"mediaAmostral"
+			],
+			[
+				"amos",
+				"amostraTratamento"
+			],
+			[
+				"TESTUTILS",
+				"ATTRIBUTESETUTILITIES"
+			],
+			[
+				"data",
+				"dataHora"
+			],
+			[
+				"servic",
+				"servicoId"
+			],
+			[
+				"servi",
+				"servicoId"
+			],
+			[
+				"setVi",
+				"setVisible()"
+			],
+			[
+				"setDefaultC",
+				"setDefaultCloseOperation()"
+			],
+			[
+				"Draw",
+				"DrawSmiley"
+			],
+			[
+				"fill",
+				"fillOval()"
+			],
+			[
+				"setCo",
+				"setColor()"
+			],
+			[
+				"pain",
+				"paintComponent()"
+			],
+			[
+				"test",
+				"testOverloadedMethods() : void"
+			],
+			[
+				"me",
+				"methodOverload"
+			],
+			[
+				"Metho",
+				"MethodOverload"
+			],
+			[
+				"doubl",
+				"doubleValue"
+			],
+			[
+				"useLocal",
+				"useLocalVariable"
+			],
+			[
+				"print",
+				"printf()"
+			],
+			[
+				"sum",
+				"sumOfDice"
+			],
+			[
+				"Status",
+				"Status.WON"
+			],
+			[
+				"determine",
+				"determineMaximum() : void"
+			],
+			[
+				"max",
+				"maximumFinder"
+			],
+			[
+				"m",
+				"maximumValue"
+			],
+			[
+				"maxi",
+				"maximumValue"
+			],
+			[
+				"SCA",
+				"SCANNER"
+			],
+			[
+				"setV",
+				"setVisible()"
+			],
+			[
+				"setLocation",
+				"setLocationRelativeTo()"
+			],
+			[
+				"setDefaulTC",
+				"setDefaultCloseOperation()"
+			],
+			[
+				"NumberF",
+				"NumberFormatException"
+			],
+			[
+				"pai",
+				"paintComponent()"
+			],
+			[
+				"paint",
+				"paintComponent()"
+			],
+			[
+				"GRAPHICS",
+				"GRAPHICS"
+			],
+			[
+				"my",
+				"myGradeBook"
+			],
+			[
+				"input",
+				"inputGrades() : void"
+			],
+			[
+				"a",
+				"aCount"
+			],
+			[
+				"incre",
+				"incrementLetterGradeCounter"
+			],
+			[
+				"grade",
+				"gradeCounter"
+			],
+			[
+				"cous",
+				"courseName"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"prin",
+				"println()"
+			],
+			[
+				"ano",
+				"anoDuplicacao"
+			],
+			[
+				"pop",
+				"populacaoInicial"
+			],
+			[
+				"popu",
+				"populacaoAtual"
+			],
+			[
+				"loca",
+				"localeBR"
+			],
+			[
+				"prinf",
+				"printf()"
+			],
+			[
+				"pass",
+				"passoLargura"
+			],
+			[
+				"passo",
+				"passoAltura"
+			],
+			[
+				"getH",
+				"getHeight()"
+			],
+			[
+				"es",
+				"espacoLargura"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"O",
+				"Override"
+			],
+			[
+				"setLoca",
+				"setLocationRelativeTo()"
+			],
+			[
+				"setT",
+				"setTitle()"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ad",
+				"add()"
+			],
+			[
+				"setSi",
+				"setSize()"
+			],
+			[
+				"setDefau",
+				"setDefaultCloseOperation()"
+			],
+			[
+				"he",
+				"height()"
+			],
+			[
+				"paintC",
+				"paintComponent()"
+			],
+			[
+				"setDefa",
+				"setDefaultCloseOperation()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 8309,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"",
+					null,
+					"AQAAAAAAAAAAAAAAdSAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"gemini",
+				"Gemini: Start Chat"
+			],
+			[
+				"Ge",
+				"Gemini: Start Chat"
+			],
+			[
+				"OpenAI",
+				"OpenAI: Chat Select Mode"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/renatormendes/ProjetosJava/JavaTutor",
+		"/home/renatormendes/ProjetosJava/JavaTutor/src",
+		"/home/renatormendes/ProjetosJava/JavaTutor/src/main",
+		"/home/renatormendes/ProjetosJava/JavaTutor/src/main/java",
+		"/home/renatormendes/ProjetosJava/JavaTutor/src/main/java/com",
+		"/home/renatormendes/ProjetosJava/JavaTutor/src/main/java/com/tutor",
+		"/home/renatormendes/ProjetosJava/JavaTutor/src/main/java/com/tutor/ai"
+	],
+	"file_history":
+	[
+		"/home/renatormendes/ProjetosJava/JavaTutor/src/main/java/com/tutor/ai/ui/JavaSyntaxDocument.java",
+		"/home/renatormendes/ProjetosJava/JavaTutor/src/main/java/com/tutor/ai/ui/MainWindow.java",
+		"/home/renatormendes/ProjetosJava/JavaTutor/pom.xml",
+		"/home/renatormendes/ProjetosJava/JavaTutor/src/main/java/com/tutor/ai/service/PdfExportService.java",
+		"/home/renatormendes/ProjetosJava/JavaTutor/src/main/java/com/tutor/ai/ui/FormattingToolBar.java",
+		"/home/renatormendes/ProjetosJava/JavaTutor/ExercicioUm.java",
+		"/home/renatormendes/ProjetosJava/JavaTutor/src/main/java/com/tutor/ai/config/AgentConfig.java",
+		"/home/renatormendes/ProjetosJava/JavaTutor/src/main/java/com/tutor/ai/ui/LineNumberGutter.java",
+		"/home/renatormendes/ProjetosJava/JavaTutor/src/main/java/com/tutor/ai/database/ConnectionFactory.java",
+		"/home/renatormendes/ProjetosJava/JavaTutor/src/main/java/com/tutor/ai/model/Mensagem.java",
+		"/home/renatormendes/ProjetosJava/JavaTutor/src/main/java/com/tutor/ai/database/ChatDAO.java",
+		"/home/renatormendes/ProjetosJava/JavaTutor/src/main/java/com/tutor/ai/service/ArquivoBinarioService.java",
+		"/home/renatormendes/ProjetosJava/JavaTutor/src/main/java/com/tutor/ai/service/ChatFacade.java",
+		"/home/renatormendes/ProjetosJava/JavaTutor/com/tutor/ai/ui/MainWindow.java",
+		"/home/renatormendes/ProjetosJava/JavaTutor/src/main/java/com/tutor/ai/App.java",
+		"/home/renatormendes/ProjetosJava/swing-kpi-java/src/com/portfolio/kpi/io/DataDownloader.java",
+		"/home/renatormendes/ProjetosJava/swing-kpi-java/src/com/portfolio/kpi/cli/InteractiveCLI.java",
+		"/home/renatormendes/ProjetosJava/swing-kpi-java/run_swing.sh",
+		"/home/renatormendes/ProjetosJava/swing-kpi-java/src/com/portfolio/kpi/swing/panel/RealtimePanel.java",
+		"/home/renatormendes/Documentos/Alpha_Vantage_API_KEY.txt",
+		"/home/renatormendes/ProjetosJava/portfolio-kpi-java-v2/src/com/portfolio/kpi/cli/InteractiveCLI.java",
+		"/home/renatormendes/ProjetosJava/portfolio-kpi-java-v2/src/com/portfolio/kpi/io/DataDownloader.java",
+		"/home/renatormendes/ProjetosJava/swing-kpi-java/readme2.md",
+		"/home/renatormendes/ProjetosJava/portfolio-kpi-java-v2/bin/relatorio.md",
+		"/home/renatormendes/ProjetosJava/portfolio-kpi-java-v2/src/com/portfolio/kpi/io/CSVReader.java",
+		"/home/renatormendes/ProjetosJava/portfolio-kpi-java-v2/src/com/portfolio/kpi/io/JSONReader.java",
+		"/home/renatormendes/ProjetosJava/portfolio-kpi-java-v2/src/com/portfolio/kpi/report/HTMLReport.java",
+		"/home/renatormendes/ProjetosJava/portfolio-kpi-java-v2/src/com/portfolio/kpi/indicators/CumulativeReturn.java",
+		"/home/renatormendes/ProjetosJava/portfolio-kpi-java-v2/src/com/portfolio/kpi/export/CSVExporter.java",
+		"/home/renatormendes/ProjetosJava/portfolio-kpi-java-v2/src/com/portfolio/kpi/test/TestRunner.java",
+		"/home/renatormendes/ProjetosJava/portfolio-kpi-java-v2/src/com/portfolio/kpi/benchmark/MultiBenchmark.java",
+		"/home/renatormendes/ProjetosJava/portfolio-kpi-java-v2/src/com/portfolio/kpi/report/MarkdownReport.java",
+		"/home/renatormendes/ProjetosJava/portfolio-kpi-java/src/com/portfolio/kpi/tests/SharpeRatioTest.java",
+		"/home/renatormendes/ProjetosJava/portfolio-kpi-java/src/com/portfolio/kpi/tests/CorrelationTest.java",
+		"/home/renatormendes/ProjetosPython/automacao/proj_automacao/app/automacao.py",
+		"/home/renatormendes/ProjetosCSharpe/capitulo2/TestandoDoisValores/Program.cs",
+		"/home/renatormendes/ProjetosCSharpe/capitulo1/Program.cs",
+		"/home/renatormendes/ProjetosCSharpe/capitulo3/LerNomeIdade/Program.cs",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/config/config.sh",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/src/main/java/com/restaurante/dao/ConnectionFactory.java",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/build.sh",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/run.sh",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/create-project.sh",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/src/main/java/com/restaurante/model/Usuario.java",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/src/main/java/com/restaurante/model/MesaAgrupada.java",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/src/main/java/com/restaurante/dao/UsuarioDAO.java",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/src/main/java/com/restaurante/controller/LoginController.java",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/resources/css/pos.css",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/src/main/java/com/restaurante/controller/MesaController.java",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/src/main/java/com/restaurante/view/Login.fxml",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/src/main/java/com/restaurante/view/Mesas.fxml",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/src/main/java/com/restaurante/css/style.css",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/src/main/java/com/restaurante/database/DatabaseInitializer.java",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/src/main/java/com/restaurante/model/Mesa.java",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/src/main/java/com/restaurante/dao/MesaDAO.java",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/src/main/java/com/restaurante/old_Main.java",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/src/main/java/com/restaurante/Main.java",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/src/main/java/com/restaurante/App.java",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/src/main/java/com/restaurante/config/Session.java",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/src/main/java/com/restaurante/config/ScreenManager.java",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/nova_estrutura.md",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/resources/fxml/Login.fxml",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/estrutura.md",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/arquitetura.md",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/modulo_model.md",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/DAO.md",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/service.md",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/messaging.md",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/view.md",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/controller.md",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/banco_sqlite.md",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/modulo_teste.md",
+		"/home/renatormendes/ProjetosJava/RestauranteEMS/script_build.md",
+		"/home/renatormendes/ProjetosJava/TIBCO_JAVA/estrutura.md",
+		"/home/renatormendes/ProjetosJava/TIBCO_JAVA/arquitetura.md",
+		"/home/renatormendes/ProjetosJava/TIBCO_JAVA/dependências.md",
+		"/home/renatormendes/ProjetosJava/TIBCO_JAVA/tabela_simples.sql",
+		"/home/renatormendes/ProjetosJava/TIBCO_JAVA/Producer.java",
+		"/home/renatormendes/ProjetosJava/TIBCO_JAVA/Consumer.java",
+		"/home/renatormendes/ProjetosJava/TIBCO_JAVA/save_sql.java",
+		"/home/renatormendes/ProjetosJava/TIBCO_JAVA/fluxo.md",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/routes/auth.py",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/routes/cadastros.py",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/templates/vendas.html",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/templates/nota_fiscal.html",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/seed.py",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/templates/tabela_precos.html",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/templates/compras.html",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/templates/cadastros.pdf",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/templates/minha_empresa.html",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/routes/financeiro.py",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/utils/tributacao.py",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/templates/relatorios.html",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/templates/bancos.html",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/templates/index.html",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/tests/test_finance.py",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/models.py",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/static/uploads/1783651308_ei_1742825809356-removebg-preview.png",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/estruturaERP.md",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/templates/cadastros.html",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/__init__.py",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/run.py",
+		"/home/renatormendes/ProjetosPython/controle_financeiro/app/templates/login.html",
+		"/home/renatormendes/Projetos/ControleFinanceiro/estrutura.md",
+		"/home/renatormendes/Projetos/ControleFinanceiro/controle_financeiro/tests/test_finance.py",
+		"/home/renatormendes/Projetos/ControleFinanceiro/controle_financeiro/app/models.py",
+		"/home/renatormendes/Projetos/ControleFinanceiro/controle_financeiro/app/__init__.py",
+		"/home/renatormendes/Projetos/ControleFinanceiro/controle_financeiro/app/routes.py",
+		"/home/renatormendes/Projetos/ControleFinanceiro/controle_financeiro/run.py",
+		"/home/renatormendes/Projetos/ControleFinanceiro/controle_financeiro/app/templates/old_index.html",
+		"/home/renatormendes/Projetos/ControleFinanceiro/controle_financeiro/app/templates/index.html",
+		"/home/renatormendes/Projetos/ControleFinanceiro/controle_financeiro/tests/__init__.py",
+		"/home/renatormendes/Projetos/Proj_UI_UX/estrutura_meu_projeto",
+		"/home/renatormendes/Projetos/Proj_UI_UX/meu_projeto/run.py",
+		"/home/renatormendes/Projetos/Proj_UI_UX/nova_estrutura.md",
+		"/home/renatormendes/Apostilas/Ruby/AprendendoRuby/Capitulo_6/operadores.rb",
+		"/home/renatormendes/Apostilas/Ruby/AprendendoRuby/Capitulo_7/tabelasHash.rb",
+		"/home/renatormendes/Apostilas/Ruby/AprendendoRuby/areaTriangulo.rb",
+		"/home/renatormendes/Apostilas/Ruby/AprendendoRuby/SenoCosseno.rb",
+		"/home/renatormendes/Apostilas/Ruby/AprendendoRuby/Capitulo_5/pazzle.rb",
+		"/home/renatormendes/Apostilas/Ruby/AprendendoRuby/Capitulo_5/concatenacao.rb",
+		"/home/renatormendes/Apostilas/Ruby/AprendendoRuby/Capitulo_5/strings.rb",
+		"/home/renatormendes/Apostilas/Ruby/AprendendoRuby/Capitulo_4/repeticaoRuby.rb",
+		"/home/renatormendes/Apostilas/Ruby/AprendendoRuby/Variaveis/variaveis001.rb",
+		"/home/renatormendes/Apostilas/Ruby/AprendendoRuby/herancaRuby3.rb",
+		"/home/renatormendes/Apostilas/Ruby/AprendendoRuby/herancaRuby2.rb",
+		"/home/renatormendes/Apostilas/Ruby/AprendendoRuby/exemplo004.rb",
+		"/home/renatormendes/Apostilas/Ruby/AprendendoRuby/herancaRuby.rb"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/renatormendes/ProjetosJava/JavaTutor"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								560,
+								560
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"copilot.completion._is_modified": false,
+							"copilot.completion._is_saving": false,
+							"copilot.completion.is_visible": false,
+							"copilot.completion.is_visible_panel_completions": false,
+							"copilot.completion.is_waiting_completion": false,
+							"copilot.completion.is_waiting_panel_completions": false,
+							"copilot.completion.original_layout": null,
+							"lsp_active": true,
+							"lsp_uri": "file:///home/renatormendes/ProjetosJava/JavaTutor/README.md",
+							"open_with_edit": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 124.0,
+		"history":
+		[
+		]
+	},
+	"output.Terminus":
+	{
+		"height": 205.0,
+		"history":
+		[
+		]
+	},
+	"output.diagnostics":
+	{
+		"height": 124.0,
+		"history":
+		[
+		]
+	},
+	"output.exec":
+	{
+		"height": 206.0,
+		"history":
+		[
+			"6",
+			"3",
+			"12",
+			"linux",
+			"tux",
+			"ubuntu",
+			"debian",
+			"linux",
+			"rty",
+			"teste"
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"copilot.conversation.code_block_index":
+		{
+		},
+		"copilot.conversation.conversation_entries":
+		[
+		],
+		"copilot.conversation.conversation_id": "",
+		"copilot.conversation.follow_up": "",
+		"copilot.conversation.group_id": -1,
+		"copilot.conversation.is_visible": false,
+		"copilot.conversation.is_waiting": false,
+		"copilot.conversation.last_active_view_id": 21,
+		"copilot.conversation.model_id": "",
+		"copilot.conversation.original_layout": null,
+		"copilot.conversation.reference_block_state":
+		{
+		},
+		"copilot.conversation.suggested_title": "",
+		"copilot.conversation.view_id": -1,
+		"copilot.copilotignore.patterns":
+		{
+		},
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
